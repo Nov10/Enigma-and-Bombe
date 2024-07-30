@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bombe_Advanced/1.0.0": {
+        "runtime": {
+          "Bombe_Advanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bombe_Advanced/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

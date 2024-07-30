@@ -1,0 +1,14 @@
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\Bombe_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\Bombe_Advanced.AssemblyInfoInputs.cache
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\Bombe_Advanced.AssemblyInfo.cs
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\Bombe_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\bin\Debug\net8.0\Bombe_Advanced.exe
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\bin\Debug\net8.0\Bombe_Advanced.deps.json
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\bin\Debug\net8.0\Bombe_Advanced.runtimeconfig.json
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\bin\Debug\net8.0\Bombe_Advanced.dll
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\bin\Debug\net8.0\Bombe_Advanced.pdb
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\Bombe_Advanced.dll
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\refint\Bombe_Advanced.dll
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\Bombe_Advanced.pdb
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\Bombe_Advanced.genruntimeconfig.cache
+C:\Users\문종욱\source\repos\Bombe_Advanced\Bombe_Advanced\obj\Debug\net8.0\ref\Bombe_Advanced.dll
