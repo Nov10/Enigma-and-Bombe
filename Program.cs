@@ -418,9 +418,6 @@ void BruteForce_RotorType(BombeData data, System.Action<BombeData> rotorsequence
                 if (a == b) continue;
                 if (a == c) continue;
                 if (b == c) continue;
-                    a = 0;
-                    b = 2;
-                    c = 1;
                 //로터 종류 설정
                 data.Rotors[0] = GetRotor(a);
                 data.Rotors[1] = GetRotor(b);
@@ -442,7 +439,6 @@ void BruteForce_RotorType(BombeData data, System.Action<BombeData> rotorsequence
             bool possible = true; //알려진 평문이 i만큼 밀리는 것이 가능한가?
             for (int k = 0; k < cribText.Length; k++)
             {
-                i = 5;
                 //논리적으로는 '평문'이 i만큼 밀렸다고 가정하지만, 실제 구현에서는 '암호문'이 i만큼 밀렸다고 가정하는 것이 더 간단함
                 //i만큼 밀린 암호문 [k + i]와 평문 [k]가 일치하는지 확인
                 if (encryptedText[k + i] == cribText[k])
@@ -485,7 +481,6 @@ void BruteForce_RotorSequence(BombeData d, System.Action<BombeData> plugboardFin
         Console.WriteLine($"{(char)(r1 + 'A')}");
         for (int r2 = 0; r2 < 26; ++r2) {
             for (int r3 = 0; r3 < 26; ++r3) {
-                    r1 = 'F' - 'A';
                 //로터의 시작 지점 설정
                 d.StartPosition = $"{(char)(r1 + 'A')}{(char)(r2 + 'A')}{(char)(r3 + 'A')}";
                 plugboardFinder(d);
